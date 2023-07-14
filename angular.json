@@ -10,6 +10,10 @@
           "uk": {
             "translation": "src/locale/messages.uk.xlf",
             "baseHref": ""
+          },
+          "de": {
+            "translation": "src/locale/messages.de.xlf",
+            "baseHref": ""
           }
         }
       },
@@ -58,6 +62,9 @@
             },
             "uk": {
               "localize": ["uk"]
+            },
+            "de": {
+              "localize": ["de"]
             }
           },
           "defaultConfiguration": "production"
@@ -73,6 +80,9 @@
             },
             "uk": {
               "browserTarget": "angular.io-example:build:development,uk"
+            },
+            "de": {
+              "browserTarget": "angular.io-example:build:development,de"
             }
           },
           "defaultConfiguration": "development"
