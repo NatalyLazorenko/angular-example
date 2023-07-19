@@ -7,7 +7,7 @@ import { Component } from "@angular/core";
 export class AppComponent {
   localesList = [
     { code: "en-US", label: "English" },
-    { code: "ua", label: "Українська" },
+    { code: "uk", label: "Українська" },
     { code: "de", label: "Deutsch" },
   ];
 }
