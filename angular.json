@@ -9,11 +9,11 @@
         "locales": {
           "uk": {
             "translation": "src/locale/messages.uk.xlf",
-            "baseHref": ""
+            "baseHref": "uk/"
           },
           "de": {
             "translation": "src/locale/messages.de.xlf",
-            "baseHref": ""
+            "baseHref": "de/"
           }
         }
       },
