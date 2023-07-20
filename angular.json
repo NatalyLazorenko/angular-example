@@ -90,6 +90,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
+            "outputPath": "src/locale",
             "browserTarget": "angular.io-example:build"
           }
         },

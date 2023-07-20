@@ -7,7 +7,7 @@ import { Component } from "@angular/core";
     <button i18n type="button" (click)="onEditClick()">
       Make text editable!
     </button>
-    <p i18n [contentEditable]="canEdit">{{ message }}</p>
+    <p [contentEditable]="canEdit">{{ message }}</p>
   `,
 })
 export class HelloWorldTemplateComponent {

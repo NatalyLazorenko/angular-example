@@ -6,7 +6,7 @@
         <source>Understanding Angular</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.html</context>
-          <context context-type="linenumber">1</context>
+          <context context-type="linenumber">2</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7723084669342910030" datatype="html">
@@ -26,7 +26,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="3628953179342697199" datatype="html">
-        <source>My color is <x id="INTERPOLATION" equiv-text="{{ fontColor }}"/></source>
+        <source>My color is <x id="INTERPOLATION" equiv-text="{{ fontColorText }}"/></source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/hello-world-bindings/hello-world-bindings.component.html</context>
           <context context-type="linenumber">9</context>
@@ -36,14 +36,14 @@
         <source>blue</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/hello-world-bindings/hello-world-bindings.component.ts</context>
-          <context context-type="linenumber">8</context>
+          <context context-type="linenumber">9</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5408573204593694711" datatype="html">
         <source>Hello, World</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/hello-world-bindings/hello-world-bindings.component.ts</context>
-          <context context-type="linenumber">11</context>
+          <context context-type="linenumber">12</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3318990525572050896" datatype="html">
@@ -65,21 +65,6 @@
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/hello-world-di/hello-world-di.component.html</context>
           <context context-type="linenumber">5</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="187187500641108332" datatype="html">
-        <source><x id="INTERPOLATION" equiv-text="{{ message }}"/></source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/hello-world-interpolation/hello-world-interpolation.component.html</context>
-          <context context-type="linenumber">1</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/hello-world-ngif/hello-world-ngif.component.html</context>
-          <context context-type="linenumber">13</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/hello-world-template.component.ts</context>
-          <context context-type="linenumber">10</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2516094558146885321" datatype="html">
